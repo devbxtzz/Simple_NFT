@@ -235,7 +235,7 @@ const mint = () => {
 			) : (
 				<div className='flex flex-col justify-center items-center'>
 					<div className='font-semibold text-lg text-center mb-4'>
-						Your Character
+						Your NFT
 					</div>
 					<img
 						src={mintedNFT}
